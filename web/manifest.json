@@ -1,0 +1,20 @@
+{
+"name": "APRENDENDO PWA",
+"short_name": "AprendPWA",
+"description": "WEB APP para aprender PWA (discplina PAMII).",
+"display": "fullscreen",
+"start_url" : "index.html",
+"scope" : "/",
+
+"icons" :[
+    {
+        "src": "icon/app-icon-192x192.png",
+        "sizes": "192x192",
+        "tyoe": "image/png"
+    },
+    {
+        "scr": "icon/app-icon-512x512.png",
+        "sizes": "512x512",
+        "tyoe": "image/png"
+    }]
+    }
