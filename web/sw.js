@@ -8,6 +8,7 @@ self.addEventListener('install', e => {
 self.addEventListener('activate', e => {});
 
 self.addEventListener('fetch', fetchEvent => {
-    console.dir(fetchEvent);
+    console.log("Interceptado evento fetch");
+    console.fir(fetchEvent);
 });
 
